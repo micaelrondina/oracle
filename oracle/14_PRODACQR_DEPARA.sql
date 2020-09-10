@@ -1,0 +1,4 @@
+INSERT INTO PRODACQR.cod_resp_iso8583 (COD_RESP, DESCRIPCION) VALUES ('B1','EC EXCEDEU LIMITE DIARIO');
+COMMIT;
+
+--select * from PRODACQR.cod_resp_iso8583 where cod_resp = 'B1';
